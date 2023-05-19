@@ -1,2 +1,3 @@
 exemplo de arquivo adicionado
 linha 2
+linha 3
