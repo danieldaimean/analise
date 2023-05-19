@@ -13,6 +13,7 @@ Daniel aztrau adicionou as sequintes linhas:
 
  3.3 adicionei linha 3.3
 
+
 (deletar) 3.4 e mais 3.4
 
 Um novo item 4 quatro 4
